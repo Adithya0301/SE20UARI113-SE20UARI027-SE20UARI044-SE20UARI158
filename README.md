@@ -1,0 +1,2 @@
+# SE20UARI113-SE20UARI027-SE20UARI044-SE20UARI158
+Raspberrypi using a temperature sensor
